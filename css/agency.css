@@ -93,7 +93,7 @@ img::-moz-selection {
 }
 
 .btn-primary {
-  background-color: #fed136;
+  background-color: #fed336dc;
   border-color: #fed136;
 }
 
@@ -129,7 +129,7 @@ img::-moz-selection {
 }
 
 #mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-  color: #fec503;
+  color: #;
 }
 
 #mainNav .navbar-nav .nav-item .nav-link {

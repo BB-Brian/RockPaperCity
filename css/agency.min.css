@@ -5,6 +5,14 @@
  */
  /* Merged CSS Start */
 
+.b-name {
+  display: inline-block;
+}
+
+.custom-pic {
+  height: 80px;
+}
+
 /* Scrolling Numbers To Letters Start */
 .wrapper {
   position: relative;
