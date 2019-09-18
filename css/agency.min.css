@@ -31,7 +31,9 @@
 
 .custom-pic-height-sm {
     vertical-align: center;
-    height: 50px;
+    height: 60px;
+    margin-top: -20px;
+    margin-bottom: 10px;
 }
 
 .custom-pic-width {
